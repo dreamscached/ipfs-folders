@@ -11,6 +11,6 @@ This file contains list of picture folders you might want to check out and (mayb
 <details>
   <summary>🔞 Click to reveal list of CIDs potentially containing NSFW content.</summary>
   <ul>
-     <li>Random wallpapers from WallHaven.CC &mdash; <a href="https://ipfs.io/ipfs/QmNyAXN196k9BGsENbN64HCCQWDofEJAdWLrT8XQm2sDeQ">QmNyAXN196k9BGsENbN64HCCQWDofEJAdWLrT8XQm2sDeQ</a></li>
+     <li>Random wallpapers from WallHaven.CC &mdash; <a href="https://ipfs.io/ipfs/QmZzAxYvdLvNbuYzYMqVn1DvSTyMrSahSQo627Pe9Uv37j">QmZzAxYvdLvNbuYzYMqVn1DvSTyMrSahSQo627Pe9Uv37j</a></li>
   </ul
 </details>
